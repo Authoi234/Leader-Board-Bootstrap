@@ -5,3 +5,11 @@
 .nav-bg{
     background-color: rgb(0, 255, 234);
 }
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+.bg{
+    background-color: yellow;
+}
