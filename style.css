@@ -13,3 +13,23 @@
 .bg{
     background-color: yellow;
 }
+.majical-input{
+    width: 15%;
+    height: 5%;
+    background-color: silver;
+    color: white;
+    font-size: 20px;
+    margin-left: 15%;
+    transition: ease-in-out 0.5s;
+    margin: 50px;
+    border-radius: 10px;
+}
+.majical-input:hover{
+    width: 30%;
+    background-color: orangered;
+    color: darkviolet;
+    height: 10%;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+}
